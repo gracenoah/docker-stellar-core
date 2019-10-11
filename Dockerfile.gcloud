@@ -1,5 +1,4 @@
-ARG TAG
-FROM satoshipay/stellar-core:$TAG
+FROM gracenoah/stellar-core:v12.0.0
 
 LABEL maintainer="hello@satoshipay.io"
 
